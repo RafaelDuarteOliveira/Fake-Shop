@@ -1,2 +1,1 @@
-# Fake-Shop
-Fake-Shop
+# FakeShop
